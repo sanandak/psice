@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Penn State Ice and Climate </title>
+    <link>http://sanandak.github.io/psice/post/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2017</rights>
+    <updated>2017-07-02 08:53:31 -0400 EDT</updated>
+
+    
+      
+        <item>
+          <title>geopebble</title>
+          <link>http://sanandak.github.io/psice/geopebble/</link>
+          <pubDate>Sun, 02 Jul 2017 08:53:31 EDT</pubDate>
+          <author></author>
+          <guid>http://sanandak.github.io/psice/geopebble/</guid>
+          <description>&lt;h1 id=&#34;wireless-geophysical-sensors&#34;&gt;wireless geophysical sensors&lt;/h1&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>Welcome</title>
+          <link>http://sanandak.github.io/psice/welcome/</link>
+          <pubDate>Sun, 02 Jul 2017 08:05:00 &#43;0400</pubDate>
+          <author></author>
+          <guid>http://sanandak.github.io/psice/welcome/</guid>
+          <description>&lt;h1 id=&#34;psice-penn-state-ice-and-climate-exploration&#34;&gt;PSICE - Penn State Ice and Climate Exploration&lt;/h1&gt;
+
+&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
+
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+
+&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
+
+&lt;h2 id=&#34;math-test&#34;&gt;Math test&lt;/h2&gt;
+
+&lt;p&gt;\(A=\pi r^2\)&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
